@@ -9,7 +9,7 @@
 % the structure, e.g. if element 3 connected nodes 2 and 4, it would be
 % element(3).u1 = 2, element(3).u2 = 4. 
 
-%% Ordinary lirary functions
+%% Ordinary library functions
 % zeros(), atan2(), norm(), and length().
 
 %% Local matrices
